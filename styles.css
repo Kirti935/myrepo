@@ -16,7 +16,11 @@ header {
 }
 
 header h1 {
-    margin: 3;
+<<<<<<< HEAD
+    margin: 1;
+=======
+    margin: 2;
+>>>>>>> design
     font-size: 2.5rem;
 }
 
